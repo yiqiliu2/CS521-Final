@@ -1,0 +1,16 @@
+num_orders: 221
+
+naive schedule time: 0.6924348035827279 sec
+naive_exe_ms: 10.946987633962408
+naive_load_ms: 10.117299774169922
+naive_ms: 20.55589228166285
+
+icbm_ordered schedule time: 1.4138256628066301 sec
+icbm_ordered_exe_ms: 12.558671302818242
+icbm_ordered_load_ms: 10.117299774169918
+icbm_ordered_ms: 12.859879938353314
+
+ideal schedule time: 0.6226699748076499 sec
+ideal_exe_ms: 10.931345671698281
+ideal_load_ms: 10.117299774169922
+ideal_ms: 11.088226187905464

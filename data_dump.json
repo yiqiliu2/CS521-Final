@@ -1,0 +1,6570 @@
+[
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "3680cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/3680cores/gemma2-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.90422722697258,
+      "icbm_ms": 10.681021611377608
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "3680cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/3680cores/llama2-13-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.9253321890719235,
+      "icbm_ms": 11.850490752960795
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "3680cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/3680cores/opt-30-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.1481809089891613,
+      "icbm_ms": 20.633428454699253
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "3680cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/3680cores/llama2-70-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.937597048934549,
+      "icbm_ms": 23.72541773662302
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "1472cores",
+    "model": "vit-huge",
+    "batch": "b32",
+    "gbps": 1000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/1472cores/vit-huge-b32-1000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.3558372708503157,
+      "icbm_ms": 77.92046899202163
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "2944cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/2944cores/llama2-70-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.9904854379128665,
+      "icbm_ms": 24.070161991871498
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "2944cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/2944cores/opt-30-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.5069735751021653,
+      "icbm_ms": 20.47080657746511
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "2944cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/2944cores/gemma2-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.5390366620849818,
+      "icbm_ms": 11.488329836965331
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "2944cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/2944cores/llama2-13-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.8947646028827876,
+      "icbm_ms": 11.7237249639473
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "2208cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/2208cores/llama2-70-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.80752443918027,
+      "icbm_ms": 26.52451783663404
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "2208cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/2208cores/llama2-13-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.6407536589540541,
+      "icbm_ms": 14.619183184905594
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "2208cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/2208cores/opt-30-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.328394120093435,
+      "icbm_ms": 27.021178898696736
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "2208cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/2208cores/gemma2-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.5716329161077738,
+      "icbm_ms": 12.043725677402486
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "736cores",
+    "model": "vit-huge",
+    "batch": "b32",
+    "gbps": 500,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/736cores/vit-huge-b32-500GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.4663532490376383,
+      "icbm_ms": 179.79346018898283
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/gemma2-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.9175938440021127,
+      "icbm_ms": 9.138222725714877
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 4000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/gemma2-b32-4000GBps.log",
+    "data": {
+      "icbm_schedule_time": 5.158061814960092,
+      "icbm_ms": 15.297444167121167
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-70-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 16.911771934013814,
+      "icbm_ms": 16.742780539458654
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 17000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/gemma2-b32-17000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.4780560811050236,
+      "icbm_ms": 10.552462257394478
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/opt-30-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 147.0725235620048,
+      "icbm_schedule_time": 3.3547877711243927,
+      "icbm_ms": 13.702252471827055
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/gemma2-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.601372503908351,
+      "icbm_ms": 9.194872344450209
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-13-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 414.77230880898423,
+      "icbm_schedule_time": 5.746384511934593,
+      "icbm_ms": 11.033501931275671
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 7000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/gemma2-b32-7000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.567150072194636,
+      "icbm_ms": 8.812981939163642
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 5000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-70-b32-5000GBps.log",
+    "data": {
+      "icbm_schedule_time": 17.05444592097774,
+      "icbm_ms": 26.75467241030366
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 11000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-70-b32-11000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.794192744186148,
+      "icbm_ms": 19.607625102694747
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 17000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/opt-30-b32-17000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.4002002230845392,
+      "icbm_ms": 20.22406176569179
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-70-b32-16000GBps.log",
+    "data": {
+      "icbm_schedule_time": 4.1596503590699285,
+      "icbm_ms": 17.76256253488448
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 13000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/opt-30-b32-13000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.9259410300292075,
+      "icbm_ms": 17.458837450222276
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-13-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.351478401105851,
+      "icbm_ms": 9.159821561480452
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/opt-30-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.444369595963508,
+      "icbm_ms": 17.477994031845768
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-13-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.0590882420074195,
+      "icbm_ms": 9.918107978662997
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 3000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-70-b32-3000GBps.log",
+    "data": {
+      "icbm_schedule_time": 13.443901723949239,
+      "icbm_ms": 44.5308408347828
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 17000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-70-b32-17000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.5073943200986832,
+      "icbm_ms": 21.849319402883832
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-70-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.7430620200466365,
+      "icbm_ms": 15.422935230711364
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 13000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/gemma2-b32-13000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.8127263991627842,
+      "icbm_ms": 9.522488318368065
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 9000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-13-b32-9000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.1520389791112393,
+      "icbm_ms": 8.758177322086464
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-70-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 12.009972956031561,
+      "icbm_ms": 22.310630304183853
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 18000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-13-b32-18000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.29456560406833887,
+      "icbm_ms": 10.9702158731656
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/opt-30-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.588525694096461,
+      "icbm_ms": 16.78912135024661
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 3000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/opt-30-b32-3000GBps.log",
+    "data": {
+      "icbm_schedule_time": 6.067112937103957,
+      "icbm_ms": 47.96873698990301
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 5000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/gemma2-b32-5000GBps.log",
+    "data": {
+      "icbm_schedule_time": 6.034727000864223,
+      "icbm_ms": 12.271361794074293
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 15000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/gemma2-b32-15000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.4918823819607496,
+      "icbm_ms": 7.992851459369498
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 18000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/gemma2-b32-18000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.3876851999666542,
+      "icbm_ms": 10.414197298702737
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/gemma2-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.7941860449500382,
+      "icbm_ms": 8.194049329595964
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 2000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-13-b32-2000GBps.log",
+    "data": {
+      "icbm_schedule_time": 4.967978722881526,
+      "icbm_ms": 38.29982933387382
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-70-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 231.76976306992583,
+      "icbm_schedule_time": 9.010738058947027,
+      "icbm_ms": 16.38121591043909
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 5000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/opt-30-b32-5000GBps.log",
+    "data": {
+      "icbm_schedule_time": 6.638509496115148,
+      "icbm_ms": 28.827269997715213
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-13-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.5635259069968015,
+      "icbm_ms": 8.471807043386859
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 15000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-70-b32-15000GBps.log",
+    "data": {
+      "icbm_schedule_time": 4.470083129126579,
+      "icbm_ms": 16.009391186342842
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/opt-30-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 394.982772765914,
+      "icbm_schedule_time": 5.266119125997648,
+      "icbm_ms": 19.42631121955263
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-13-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 152.48490800196305,
+      "icbm_schedule_time": 2.6376815929543227,
+      "icbm_ms": 6.980571952165137
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-70-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 4.590828305110335,
+      "icbm_ms": 15.016324494121603
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/opt-30-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 6.58292023697868,
+      "icbm_ms": 18.099915241708434
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-13-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.348324088845402,
+      "icbm_ms": 12.824957529645804
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/gemma2-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 478.4351351009682,
+      "icbm_schedule_time": 7.180996762122959,
+      "icbm_ms": 11.668046540411122
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 13000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-13-b32-13000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.908313472988084,
+      "icbm_ms": 9.968423048661888
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 13000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-70-b32-13000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.203749895095825,
+      "icbm_ms": 19.834619040463323
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 4000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-13-b32-4000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.3956125660333782,
+      "icbm_ms": 19.181270251842573
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 4000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-70-b32-4000GBps.log",
+    "data": {
+      "icbm_schedule_time": 14.745965094072744,
+      "icbm_ms": 33.42073556948335
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 3000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-13-b32-3000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.433802949031815,
+      "icbm_ms": 25.55412327918646
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 2000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/gemma2-b32-2000GBps.log",
+    "data": {
+      "icbm_schedule_time": 6.213639077031985,
+      "icbm_ms": 30.42785603235554
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 18000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/opt-30-b32-18000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.4009288919623941,
+      "icbm_ms": 20.11413533180448
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 9000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/opt-30-b32-9000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.687645792029798,
+      "icbm_ms": 16.151248054478668
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 11000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/gemma2-b32-11000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.059836242813617,
+      "icbm_ms": 9.071447285782664
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 15000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-13-b32-15000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.8197302960325032,
+      "icbm_ms": 8.163933247062015
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 9000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/gemma2-b32-9000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.5122179710306227,
+      "icbm_ms": 9.359839105358152
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/opt-30-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.654100203886628,
+      "icbm_ms": 16.02620365599397
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 11000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/opt-30-b32-11000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.3367705109994859,
+      "icbm_ms": 16.889825153520263
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 17000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-13-b32-17000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.29668827494606376,
+      "icbm_ms": 11.12843482741396
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 4000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/opt-30-b32-4000GBps.log",
+    "data": {
+      "icbm_schedule_time": 7.273583719972521,
+      "icbm_ms": 36.00532011978552
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/opt-30-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 4.8624822669662535,
+      "icbm_ms": 24.04190324966849
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 2000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-70-b32-2000GBps.log",
+    "data": {
+      "icbm_schedule_time": 13.05864089797251,
+      "icbm_ms": 66.75105136538178
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/gemma2-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.515836776001379,
+      "icbm_ms": 9.082835134212893
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/gemma2-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 177.0546448410023,
+      "icbm_schedule_time": 2.415582836139947,
+      "icbm_ms": 7.802156015143738
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-13-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.017801410984248,
+      "icbm_ms": 9.664108381075877
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/opt-30-b32-16000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.3978753499686718,
+      "icbm_ms": 16.410191515046485
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 15000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/opt-30-b32-15000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.605398918967694,
+      "icbm_ms": 15.05561483294504
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-70-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 549.3381712501869,
+      "icbm_schedule_time": 9.513213677098975,
+      "icbm_ms": 23.523072924951997
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 5000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-13-b32-5000GBps.log",
+    "data": {
+      "icbm_schedule_time": 4.231422224082053,
+      "icbm_ms": 15.35755843543632
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 18000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-70-b32-18000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.5794310339260846,
+      "icbm_ms": 21.483048161053805
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 7000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-70-b32-7000GBps.log",
+    "data": {
+      "icbm_schedule_time": 11.682067267829552,
+      "icbm_ms": 19.13631451409827
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 3000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/gemma2-b32-3000GBps.log",
+    "data": {
+      "icbm_schedule_time": 4.593412756919861,
+      "icbm_ms": 20.340914788866
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/gemma2-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 4.489936682162806,
+      "icbm_ms": 10.253973545376397
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 7000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/opt-30-b32-7000GBps.log",
+    "data": {
+      "icbm_schedule_time": 4.668661423958838,
+      "icbm_ms": 20.641840905396876
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 11000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-13-b32-11000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.0868338719010353,
+      "icbm_ms": 9.456438275519574
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 7000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-13-b32-7000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.144048272166401,
+      "icbm_ms": 11.018313857665818
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 9000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-70-b32-9000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.619837587000802,
+      "icbm_ms": 18.437528662643395
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 2000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/opt-30-b32-2000GBps.log",
+    "data": {
+      "icbm_schedule_time": 4.967252135043964,
+      "icbm_ms": 71.89557073013708
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-70-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 4.966933008981869,
+      "icbm_ms": 14.50139238135482
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/gemma2-b32-16000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.2552134820725769,
+      "icbm_ms": 8.674917811737124
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5888cores/llama2-13-b32-16000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.8731721439398825,
+      "icbm_ms": 9.34050120212999
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "1104cores",
+    "model": "vit-huge",
+    "batch": "b32",
+    "gbps": 750,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/1104cores/vit-huge-b32-750GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.3184346279595047,
+      "icbm_ms": 106.1496037954852
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "920cores",
+    "model": "vit-huge",
+    "batch": "b32",
+    "gbps": 625,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/920cores/vit-huge-b32-625GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.3646851850207895,
+      "icbm_ms": 130.33387571415804
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "4416cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/4416cores/gemma2-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.7081001638434827,
+      "icbm_ms": 10.525395547828353
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "4416cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/4416cores/opt-30-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.960138110909611,
+      "icbm_ms": 19.26545551860064
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "4416cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/4416cores/llama2-13-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.7106833530124277,
+      "icbm_ms": 11.040822317476758
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "4416cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/4416cores/llama2-70-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.7102340247947723,
+      "icbm_ms": 22.413363114472137
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "1288cores",
+    "model": "vit-huge",
+    "batch": "b32",
+    "gbps": 875,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/1288cores/vit-huge-b32-875GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.3404463410843164,
+      "icbm_ms": 91.30178652070701
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "552cores",
+    "model": "vit-huge",
+    "batch": "b32",
+    "gbps": 375,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/552cores/vit-huge-b32-375GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.3115938999690115,
+      "icbm_ms": 230.1974381287764
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5152cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5152cores/llama2-70-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 5.817100380081683,
+      "icbm_ms": 16.801979971999774
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5152cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5152cores/gemma2-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.011481398018077,
+      "icbm_ms": 8.170219237267142
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5152cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5152cores/llama2-13-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.9833342188503593,
+      "icbm_ms": 8.341393739337633
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_a",
+    "seq_len": 2048,
+    "suffix": "_a",
+    "core_count": "5152cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_a/5152cores/opt-30-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.405194385908544,
+      "icbm_ms": 15.937721373453849
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_training_d",
+    "seq_len": 2048,
+    "suffix": "_training_d",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b2",
+    "gbps": 400,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_training_d/5888cores/llama2-13-b2-400GBps.log",
+    "data": {
+      "icbm_schedule_time": 36.838139130268246,
+      "icbm_ms": 189.28308915806653
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_training_d",
+    "seq_len": 2048,
+    "suffix": "_training_d",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b2",
+    "gbps": 300,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_training_d/5888cores/llama2-13-b2-300GBps.log",
+    "data": {
+      "icbm_schedule_time": 51.190804028417915,
+      "icbm_ms": 251.29175718892435
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "3680cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/3680cores/gemma2-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.8851491059176624,
+      "icbm_ms": 10.7867681001735
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "3680cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/3680cores/llama2-13-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.169923088978976,
+      "icbm_ms": 11.916750997163067
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "3680cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/3680cores/opt-30-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.3090527290478349,
+      "icbm_ms": 19.998197074244842
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "3680cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/3680cores/llama2-70-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.0521505028009415,
+      "icbm_ms": 23.835102084560457
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "1472cores",
+    "model": "vit-huge",
+    "batch": "b32",
+    "gbps": 1000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/1472cores/vit-huge-b32-1000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.32116528367623687,
+      "icbm_ms": 77.93305249596105
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "2944cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/2944cores/llama2-70-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.035517643671483,
+      "icbm_ms": 24.077109312356015
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "2944cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/2944cores/opt-30-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.6358324042521417,
+      "icbm_ms": 20.373942998091625
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "2944cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/2944cores/gemma2-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.2222770880907774,
+      "icbm_ms": 11.549875265771313
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "2944cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/2944cores/llama2-13-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.5979362870566547,
+      "icbm_ms": 11.669221111982063
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "2208cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/2208cores/llama2-70-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.9267439106479287,
+      "icbm_ms": 25.571571066443994
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "2208cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/2208cores/llama2-13-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.480283860117197,
+      "icbm_ms": 14.583210090530015
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "2208cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/2208cores/opt-30-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.420868939254433,
+      "icbm_ms": 26.18360906888485
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "2208cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/2208cores/gemma2-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.6595610878430307,
+      "icbm_ms": 12.139322716905577
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "736cores",
+    "model": "vit-huge",
+    "batch": "b32",
+    "gbps": 500,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/736cores/vit-huge-b32-500GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.43424301827326417,
+      "icbm_ms": 169.4257707612039
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/5888cores/opt-30-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 10.407334675081074,
+      "icbm_schedule_time": 2.913118287920952,
+      "icbm_ms": 13.90852076715435
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/5888cores/llama2-13-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 17.625690839253366,
+      "icbm_schedule_time": 5.06178764719516,
+      "icbm_ms": 10.958001592824502
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/5888cores/llama2-70-b32-16000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.5420925952494144,
+      "icbm_ms": 18.026417301205086
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/5888cores/llama2-70-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.3657066570594907,
+      "icbm_ms": 15.561175750727912
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 18000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/5888cores/llama2-13-b32-18000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.28287866711616516,
+      "icbm_ms": 11.020252757697834
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 18000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/5888cores/gemma2-b32-18000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.36634910898283124,
+      "icbm_ms": 10.64611503860548
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/5888cores/llama2-70-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 12.666558098047972,
+      "icbm_schedule_time": 6.704955486115068,
+      "icbm_ms": 16.753934514189698
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/5888cores/opt-30-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 16.615119019988924,
+      "icbm_schedule_time": 6.375316444784403,
+      "icbm_ms": 19.018419801256883
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/5888cores/llama2-13-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 11.007829926908016,
+      "icbm_schedule_time": 2.6718355799093843,
+      "icbm_ms": 7.148604270867203
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/5888cores/gemma2-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 19.287587858270854,
+      "icbm_schedule_time": 4.7013544999063015,
+      "icbm_ms": 10.81397639690814
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 18000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/5888cores/opt-30-b32-18000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.390254944562912,
+      "icbm_ms": 20.231721280703898
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/5888cores/gemma2-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 11.236331942025572,
+      "icbm_schedule_time": 3.0648212488740683,
+      "icbm_ms": 8.137813762912144
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/5888cores/opt-30-b32-16000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.387403312139213,
+      "icbm_ms": 16.531727354005838
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/5888cores/llama2-70-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 19.91320327995345,
+      "icbm_schedule_time": 9.236348337959498,
+      "icbm_ms": 23.245232923726594
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 18000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/5888cores/llama2-70-b32-18000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.218212562147528,
+      "icbm_ms": 21.797627923778883
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/5888cores/gemma2-b32-16000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.2839238666929305,
+      "icbm_ms": 8.83295124141542
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/5888cores/llama2-13-b32-16000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.03566133370623,
+      "icbm_ms": 8.172771053945878
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "1104cores",
+    "model": "vit-huge",
+    "batch": "b32",
+    "gbps": 750,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/1104cores/vit-huge-b32-750GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.3089090948924422,
+      "icbm_ms": 97.46812262071185
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "920cores",
+    "model": "vit-huge",
+    "batch": "b32",
+    "gbps": 625,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/920cores/vit-huge-b32-625GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.36486732168123126,
+      "icbm_ms": 129.13166893675975
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "4416cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/4416cores/gemma2-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.6782983709126711,
+      "icbm_ms": 10.690774956752273
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "4416cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/4416cores/opt-30-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.9025492500513792,
+      "icbm_ms": 19.28413599024038
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "4416cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/4416cores/llama2-13-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.8113411013036966,
+      "icbm_ms": 11.10019676346113
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "4416cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/4416cores/llama2-70-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.5588349592871964,
+      "icbm_ms": 22.55803422275217
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "1288cores",
+    "model": "vit-huge",
+    "batch": "b32",
+    "gbps": 875,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/1288cores/vit-huge-b32-875GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.3467462840490043,
+      "icbm_ms": 89.45442151489925
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "552cores",
+    "model": "vit-huge",
+    "batch": "b32",
+    "gbps": 375,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/552cores/vit-huge-b32-375GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.5369134582579136,
+      "icbm_ms": 218.6555777897435
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "5152cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/5152cores/llama2-70-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 5.901237186975777,
+      "icbm_ms": 16.979063721748524
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "5152cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/5152cores/gemma2-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.5036449232138693,
+      "icbm_ms": 8.299553276497251
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "5152cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/5152cores/llama2-13-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.8385336799547076,
+      "icbm_ms": 8.367993545792327
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_d",
+    "seq_len": 2048,
+    "suffix": "_d",
+    "core_count": "5152cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_d/5152cores/opt-30-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.369781649671495,
+      "icbm_ms": 15.931768196279375
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "3680cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/3680cores/gemma2-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.8765960717573762,
+      "icbm_ms": 10.835985932132305
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "3680cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/3680cores/llama2-13-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.0394890191964805,
+      "icbm_ms": 12.133353523270767
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "3680cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/3680cores/opt-30-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.0654646451584995,
+      "icbm_ms": 20.90615528488795
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "3680cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/3680cores/llama2-70-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.1455076378770173,
+      "icbm_ms": 23.928052464508983
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "1472cores",
+    "model": "vit-huge",
+    "batch": "b32",
+    "gbps": 1000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/1472cores/vit-huge-b32-1000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.3231469583697617,
+      "icbm_ms": 80.46807640105406
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "2944cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/2944cores/llama2-70-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.7477607522159815,
+      "icbm_ms": 24.929526894697755
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "2944cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/2944cores/opt-30-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.4631755268201232,
+      "icbm_ms": 20.97959827144967
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "2944cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/2944cores/gemma2-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.9200223027728498,
+      "icbm_ms": 11.88780027883626
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "2944cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/2944cores/llama2-13-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.2910279859788716,
+      "icbm_ms": 12.041896414920746
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "2208cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/2208cores/llama2-70-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.6089565036818385,
+      "icbm_ms": 27.21569665012611
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "2208cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/2208cores/llama2-13-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.38721505086869,
+      "icbm_ms": 14.724198555037711
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "2208cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/2208cores/opt-30-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.413257284089923,
+      "icbm_ms": 29.118678138973628
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "2208cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/2208cores/gemma2-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.6078260550275445,
+      "icbm_ms": 12.771661170757575
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "736cores",
+    "model": "vit-huge",
+    "batch": "b32",
+    "gbps": 500,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/736cores/vit-huge-b32-500GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.41397743206471205,
+      "icbm_ms": 188.17762175341196
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/gemma2-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.9896850460208952,
+      "icbm_ms": 9.53232896264184
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 4000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/gemma2-b32-4000GBps.log",
+    "data": {
+      "icbm_schedule_time": 8.595196034293622,
+      "icbm_ms": 15.305761535008845
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-70-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 11.742632512003183,
+      "icbm_ms": 16.748197278077708
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 17000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/gemma2-b32-17000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.3705286863259971,
+      "icbm_ms": 10.946487235647794
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/opt-30-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 9.75216521602124,
+      "icbm_schedule_time": 3.0099109280854464,
+      "icbm_ms": 14.776027601544033
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/gemma2-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.5635834052227437,
+      "icbm_ms": 9.502595121029296
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-13-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 10.584844890981913,
+      "icbm_schedule_time": 4.190591252874583,
+      "icbm_ms": 10.908839991455148
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 7000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/gemma2-b32-7000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.8582210498861969,
+      "icbm_ms": 9.266931960537477
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 5000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-70-b32-5000GBps.log",
+    "data": {
+      "icbm_schedule_time": 13.606339607387781,
+      "icbm_ms": 26.763181355616158
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 11000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-70-b32-11000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.47939993487671,
+      "icbm_ms": 20.179310488565566
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 17000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/opt-30-b32-17000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.7159613720141351,
+      "icbm_ms": 20.929344220845774
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-70-b32-16000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.4124487019144,
+      "icbm_ms": 18.251172263957393
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 13000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/opt-30-b32-13000GBps.log",
+    "data": {
+      "icbm_schedule_time": 5.414389029145241,
+      "icbm_ms": 17.906995299414955
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-13-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.3432361758314073,
+      "icbm_ms": 9.31223312653703
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/opt-30-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 5.003468247130513,
+      "icbm_ms": 17.939456013125216
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-13-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.9242955511435866,
+      "icbm_ms": 10.072346719450135
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 3000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-70-b32-3000GBps.log",
+    "data": {
+      "icbm_schedule_time": 12.936574288643897,
+      "icbm_ms": 44.543395743636964
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 17000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-70-b32-17000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.1085093352012336,
+      "icbm_ms": 22.393058174292904
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-70-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.529643462970853,
+      "icbm_ms": 15.802765039885463
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 13000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/gemma2-b32-13000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.7970855631865561,
+      "icbm_ms": 9.80923736850259
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 9000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-13-b32-9000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.710462911054492,
+      "icbm_ms": 9.099392516912369
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-70-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 12.572090171277523,
+      "icbm_ms": 22.318127758610938
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 18000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-13-b32-18000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.3310052272863686,
+      "icbm_ms": 11.123786631485821
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/opt-30-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.797879624646157,
+      "icbm_ms": 17.271342968409186
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 3000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/opt-30-b32-3000GBps.log",
+    "data": {
+      "icbm_schedule_time": 6.4932045503519475,
+      "icbm_ms": 47.97357797162471
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 5000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/gemma2-b32-5000GBps.log",
+    "data": {
+      "icbm_schedule_time": 7.74401927087456,
+      "icbm_ms": 12.278393273290096
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 15000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/gemma2-b32-15000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.4241183400154114,
+      "icbm_ms": 8.349181148930116
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 18000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/gemma2-b32-18000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.36846434883773327,
+      "icbm_ms": 10.808129790742834
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/gemma2-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.202106038108468,
+      "icbm_ms": 8.547170636826745
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 2000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-13-b32-2000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.6220469041727483,
+      "icbm_ms": 38.31092624277712
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-70-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 10.484541068784893,
+      "icbm_schedule_time": 6.017086583189666,
+      "icbm_ms": 17.295256545166005
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 5000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/opt-30-b32-5000GBps.log",
+    "data": {
+      "icbm_schedule_time": 4.708845396060497,
+      "icbm_ms": 28.83185941693691
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-13-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.5240039080381393,
+      "icbm_ms": 8.626046085990394
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 15000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-70-b32-15000GBps.log",
+    "data": {
+      "icbm_schedule_time": 4.830906473565847,
+      "icbm_ms": 16.477441466008166
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/opt-30-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 14.284552411176264,
+      "icbm_schedule_time": 4.727606791071594,
+      "icbm_ms": 20.041835953585423
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-13-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 7.477210090961307,
+      "icbm_schedule_time": 2.8609095411375165,
+      "icbm_ms": 7.425557391815007
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-70-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.6047832588665187,
+      "icbm_ms": 15.747981250158801
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/opt-30-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 4.426722132600844,
+      "icbm_ms": 18.108593345703124
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-13-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.2207665662281215,
+      "icbm_ms": 12.83291309224411
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/gemma2-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 14.942995292134583,
+      "icbm_schedule_time": 4.86617461591959,
+      "icbm_ms": 10.98244749040481
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 13000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-13-b32-13000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.1937263431027532,
+      "icbm_ms": 10.122661789448951
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 13000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-70-b32-13000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.7284555463120341,
+      "icbm_ms": 20.320523887760313
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 4000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-13-b32-4000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.3881248361431062,
+      "icbm_ms": 19.187762668558374
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 4000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-70-b32-4000GBps.log",
+    "data": {
+      "icbm_schedule_time": 12.98239746876061,
+      "icbm_ms": 33.43076175112397
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 3000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-13-b32-3000GBps.log",
+    "data": {
+      "icbm_schedule_time": 4.261147537268698,
+      "icbm_ms": 25.562150526631502
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 2000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/gemma2-b32-2000GBps.log",
+    "data": {
+      "icbm_schedule_time": 9.474283988121897,
+      "icbm_ms": 30.442602843602593
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 18000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/opt-30-b32-18000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.7130267382599413,
+      "icbm_ms": 20.819411621210918
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 9000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/opt-30-b32-9000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.0810075290501118,
+      "icbm_ms": 17.270217565906158
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 11000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/gemma2-b32-11000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.0860909572802484,
+      "icbm_ms": 9.370471071795734
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 15000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-13-b32-15000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.893468753900379,
+      "icbm_ms": 8.317993346898668
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 9000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/gemma2-b32-9000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.2894990872591734,
+      "icbm_ms": 9.676260872503295
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/opt-30-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 7.602814879734069,
+      "icbm_ms": 16.5327251386001
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 11000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/opt-30-b32-11000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.094766865018755,
+      "icbm_ms": 17.934474824349987
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 17000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-13-b32-17000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.3097241842187941,
+      "icbm_ms": 11.282043754647601
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 4000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/opt-30-b32-4000GBps.log",
+    "data": {
+      "icbm_schedule_time": 4.820520180743188,
+      "icbm_ms": 36.01000387494472
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/opt-30-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 5.123363468796015,
+      "icbm_ms": 24.04642977826519
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 2000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-70-b32-2000GBps.log",
+    "data": {
+      "icbm_schedule_time": 13.110729157924652,
+      "icbm_ms": 66.76866372866303
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/gemma2-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.401701097842306,
+      "icbm_ms": 9.642961731804665
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/gemma2-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 9.61403335398063,
+      "icbm_schedule_time": 2.2178534329868853,
+      "icbm_ms": 8.34360844300818
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-13-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.9505155929364264,
+      "icbm_ms": 9.67017486072929
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/opt-30-b32-16000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.3515814510174096,
+      "icbm_ms": 16.937591095345713
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 15000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/opt-30-b32-15000GBps.log",
+    "data": {
+      "icbm_schedule_time": 15.340203145053238,
+      "icbm_ms": 15.683217286541746
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-70-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 14.459861672017723,
+      "icbm_schedule_time": 9.612820144742727,
+      "icbm_ms": 23.5619634756137
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 5000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-13-b32-5000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.393143326975405,
+      "icbm_ms": 15.364457954980972
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 18000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-70-b32-18000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.1556369229219854,
+      "icbm_ms": 22.026692978214413
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 7000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-70-b32-7000GBps.log",
+    "data": {
+      "icbm_schedule_time": 12.323234464041889,
+      "icbm_ms": 19.143089475035747
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 3000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/gemma2-b32-3000GBps.log",
+    "data": {
+      "icbm_schedule_time": 8.994436522014439,
+      "icbm_ms": 20.351375304540138
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/gemma2-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 5.276453087106347,
+      "icbm_ms": 10.260147765477615
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 7000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/opt-30-b32-7000GBps.log",
+    "data": {
+      "icbm_schedule_time": 5.788132205139846,
+      "icbm_ms": 20.653842847548347
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 11000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-13-b32-11000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.1249107252806425,
+      "icbm_ms": 9.75434019649306
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 7000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-13-b32-7000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.1718933801166713,
+      "icbm_ms": 11.026171611531115
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 9000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-70-b32-9000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.183214125223458,
+      "icbm_ms": 19.334351905547603
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 2000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/opt-30-b32-2000GBps.log",
+    "data": {
+      "icbm_schedule_time": 4.875545707065612,
+      "icbm_ms": 71.90072616498378
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-70-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 4.449319384992123,
+      "icbm_ms": 15.162773340774129
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/gemma2-b32-16000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.338799003046006,
+      "icbm_ms": 8.924425229176135
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5888cores/llama2-13-b32-16000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.8337168889120221,
+      "icbm_ms": 9.49408151591979
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "1104cores",
+    "model": "vit-huge",
+    "batch": "b32",
+    "gbps": 750,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/1104cores/vit-huge-b32-750GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.333460183814168,
+      "icbm_ms": 126.43035298935294
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "920cores",
+    "model": "vit-huge",
+    "batch": "b32",
+    "gbps": 625,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/920cores/vit-huge-b32-625GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.4899998651817441,
+      "icbm_ms": 134.99709505850115
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "4416cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/4416cores/gemma2-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.6708097639493644,
+      "icbm_ms": 10.802895383749894
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "4416cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/4416cores/opt-30-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.9296090081334114,
+      "icbm_ms": 19.61787039717904
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "4416cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/4416cores/llama2-13-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.6865519499406219,
+      "icbm_ms": 11.192895087278536
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "4416cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/4416cores/llama2-70-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.5818571639247239,
+      "icbm_ms": 22.82601143403954
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "1288cores",
+    "model": "vit-huge",
+    "batch": "b32",
+    "gbps": 875,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/1288cores/vit-huge-b32-875GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.37349782744422555,
+      "icbm_ms": 92.0611235035319
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "552cores",
+    "model": "vit-huge",
+    "batch": "b32",
+    "gbps": 375,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/552cores/vit-huge-b32-375GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.45977308601140976,
+      "icbm_ms": 341.1601769557242
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5152cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5152cores/llama2-70-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 5.152563586831093,
+      "icbm_ms": 17.13235040744675
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5152cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5152cores/gemma2-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.626037866808474,
+      "icbm_ms": 8.315011469591012
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5152cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5152cores/llama2-13-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.9152096910402179,
+      "icbm_ms": 8.536294285989168
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_c",
+    "seq_len": 2048,
+    "suffix": "_c",
+    "core_count": "5152cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_c/5152cores/opt-30-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.4662189497612417,
+      "icbm_ms": 16.2733897700531
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_c",
+    "seq_len": 4096,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_c/5888cores/opt-30-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 9.549619177356362,
+      "icbm_schedule_time": 3.34769459720701,
+      "icbm_ms": 17.165531208707975
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_c",
+    "seq_len": 4096,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_c/5888cores/llama2-13-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 10.942436036188155,
+      "icbm_schedule_time": 5.049466429743916,
+      "icbm_ms": 17.749253093033158
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_c",
+    "seq_len": 4096,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_c/5888cores/llama2-70-b32-16000GBps.log",
+    "data": {
+      "prepare_time": 11.893911683000624,
+      "icbm_schedule_time": 10.458780023269355,
+      "icbm_ms": 19.002461596246572
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_c",
+    "seq_len": 4096,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_c/5888cores/llama2-70-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 10.424387293867767,
+      "icbm_schedule_time": 7.267219865694642,
+      "icbm_ms": 17.6866807813448
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_c",
+    "seq_len": 4096,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_c/5888cores/opt-30-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 14.301541816908866,
+      "icbm_schedule_time": 5.638481250964105,
+      "icbm_ms": 30.5106982042139
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_c",
+    "seq_len": 4096,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_c/5888cores/llama2-13-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 7.414076067041606,
+      "icbm_schedule_time": 2.8326379996724427,
+      "icbm_ms": 8.845467149270624
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_c",
+    "seq_len": 4096,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_c/5888cores/gemma2-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 14.81185327284038,
+      "icbm_schedule_time": 5.9572353712283075,
+      "icbm_ms": 13.078521283539393
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_c",
+    "seq_len": 4096,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_c/5888cores/gemma2-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 9.678476636763662,
+      "icbm_schedule_time": 3.0350572750903666,
+      "icbm_ms": 8.761101467266942
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_c",
+    "seq_len": 4096,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_c/5888cores/opt-30-b32-16000GBps.log",
+    "data": {
+      "prepare_time": 11.654442958999425,
+      "icbm_schedule_time": 6.452919289004058,
+      "icbm_ms": 18.862086227291158
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_c",
+    "seq_len": 4096,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_c/5888cores/llama2-70-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 14.786803639959544,
+      "icbm_schedule_time": 10.11123953294009,
+      "icbm_ms": 24.72513453997937
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_c",
+    "seq_len": 4096,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_c/5888cores/gemma2-b32-16000GBps.log",
+    "data": {
+      "prepare_time": 11.60350671922788,
+      "icbm_schedule_time": 4.350771955680102,
+      "icbm_ms": 10.158399204916932
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_c",
+    "seq_len": 4096,
+    "suffix": "_c",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_c/5888cores/llama2-13-b32-16000GBps.log",
+    "data": {
+      "prepare_time": 8.686368506867439,
+      "icbm_schedule_time": 5.696509507950395,
+      "icbm_ms": 10.169717815070385
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_training_b",
+    "seq_len": 2048,
+    "suffix": "_training_b",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b2",
+    "gbps": 400,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_training_b/5888cores/llama2-13-b2-400GBps.log",
+    "data": {
+      "icbm_schedule_time": 24.735169020015746,
+      "icbm_ms": 187.25092293604905
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_training_b",
+    "seq_len": 2048,
+    "suffix": "_training_b",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b2",
+    "gbps": 300,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_training_b/5888cores/llama2-13-b2-300GBps.log",
+    "data": {
+      "icbm_schedule_time": 25.22591855400242,
+      "icbm_ms": 248.52307810883445
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_training",
+    "seq_len": 2048,
+    "suffix": "_training",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b2",
+    "gbps": 400,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_training/5888cores/llama2-13-b2-400GBps.log",
+    "data": {
+      "icbm_schedule_time": 34.498068641871214,
+      "icbm_ms": 189.02537861980525
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_training",
+    "seq_len": 2048,
+    "suffix": "_training",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b2",
+    "gbps": 300,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_training/5888cores/llama2-13-b2-300GBps.log",
+    "data": {
+      "icbm_schedule_time": 38.69090078538284,
+      "icbm_ms": 250.9478415350596
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_training_c",
+    "seq_len": 2048,
+    "suffix": "_training_c",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b2",
+    "gbps": 400,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_training_c/5888cores/llama2-13-b2-400GBps.log",
+    "data": {
+      "icbm_schedule_time": 25.330605916213244,
+      "icbm_ms": 189.117481524876
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_training_c",
+    "seq_len": 2048,
+    "suffix": "_training_c",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b2",
+    "gbps": 300,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_training_c/5888cores/llama2-13-b2-300GBps.log",
+    "data": {
+      "icbm_schedule_time": 28.16086721699685,
+      "icbm_ms": 251.06465147137877
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "3680cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/3680cores/gemma2-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.8672157800756395,
+      "icbm_ms": 10.942011420928234
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "3680cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/3680cores/llama2-13-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.9541240823455155,
+      "icbm_ms": 12.20173256825446
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "3680cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/3680cores/opt-30-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.3034733012318611,
+      "icbm_ms": 20.677099680899246
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "3680cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/3680cores/llama2-70-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.0036629871465266,
+      "icbm_ms": 24.04428214437228
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "1472cores",
+    "model": "vit-huge",
+    "batch": "b32",
+    "gbps": 1000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/1472cores/vit-huge-b32-1000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.3592523839324713,
+      "icbm_ms": 80.51166985552048
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "2944cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/2944cores/llama2-70-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.7778931632637978,
+      "icbm_ms": 24.938015951301594
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "2944cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/2944cores/opt-30-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.5019475081935525,
+      "icbm_ms": 20.749165802661093
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "2944cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/2944cores/gemma2-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.0310104452073574,
+      "icbm_ms": 11.95143846801561
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "2944cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/2944cores/llama2-13-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.3071918208152056,
+      "icbm_ms": 12.055496263123981
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "2208cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/2208cores/llama2-70-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.79887220216915,
+      "icbm_ms": 26.255695895409215
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "2208cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/2208cores/llama2-13-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.3686874909326434,
+      "icbm_ms": 14.724477800320729
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "2208cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/2208cores/opt-30-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.441441563423723,
+      "icbm_ms": 25.748769082032656
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "2208cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/2208cores/gemma2-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.4138256628066301,
+      "icbm_ms": 12.859879938353314
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "736cores",
+    "model": "vit-huge",
+    "batch": "b32",
+    "gbps": 500,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/736cores/vit-huge-b32-500GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.3850349588319659,
+      "icbm_ms": 176.01833377776933
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/5888cores/opt-30-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 4.749720281921327,
+      "icbm_schedule_time": 2.963986145798117,
+      "icbm_ms": 14.981814953475046
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/5888cores/llama2-13-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 5.242773020174354,
+      "icbm_schedule_time": 4.93376753712073,
+      "icbm_ms": 10.676564730731316
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/5888cores/llama2-70-b32-16000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.606342878192663,
+      "icbm_ms": 18.44085546427721
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/5888cores/llama2-70-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.5730146570131183,
+      "icbm_ms": 15.914208883575409
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 18000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/5888cores/llama2-13-b32-18000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.34260664507746696,
+      "icbm_ms": 11.218115114386764
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 18000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/5888cores/gemma2-b32-18000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.37516765110194683,
+      "icbm_ms": 11.04209147595808
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/5888cores/llama2-70-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 6.433579339645803,
+      "icbm_schedule_time": 6.168630741070956,
+      "icbm_ms": 17.652011953711938
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/5888cores/opt-30-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 6.205981623381376,
+      "icbm_schedule_time": 4.944753388874233,
+      "icbm_ms": 19.20474571175296
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/5888cores/llama2-13-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 4.265372705180198,
+      "icbm_schedule_time": 2.7485319543629885,
+      "icbm_ms": 7.594855582370262
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/5888cores/gemma2-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 6.826870474033058,
+      "icbm_schedule_time": 3.8793666269630194,
+      "icbm_ms": 11.120737677568563
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 18000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/5888cores/opt-30-b32-18000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.3913359506987035,
+      "icbm_ms": 20.93739438917808
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/5888cores/gemma2-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 5.617747312877327,
+      "icbm_schedule_time": 2.253909961786121,
+      "icbm_ms": 8.645030811372772
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/5888cores/opt-30-b32-16000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.338011975865811,
+      "icbm_ms": 17.05936901613365
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/5888cores/llama2-70-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 7.616040327586234,
+      "icbm_schedule_time": 9.076258309185505,
+      "icbm_ms": 23.683483452028725
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 18000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/5888cores/llama2-70-b32-18000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.1407759310677648,
+      "icbm_ms": 22.20869596506989
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/5888cores/gemma2-b32-16000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.2340043867006898,
+      "icbm_ms": 9.084918131510685
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/5888cores/llama2-13-b32-16000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.3852851749397814,
+      "icbm_ms": 8.397968412436445
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "1104cores",
+    "model": "vit-huge",
+    "batch": "b32",
+    "gbps": 750,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/1104cores/vit-huge-b32-750GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.307979894336313,
+      "icbm_ms": 117.91162248451782
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "920cores",
+    "model": "vit-huge",
+    "batch": "b32",
+    "gbps": 625,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/920cores/vit-huge-b32-625GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.34781588381156325,
+      "icbm_ms": 134.37047617389405
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "4416cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/4416cores/gemma2-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.7972526447847486,
+      "icbm_ms": 10.956608667864206
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "4416cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/4416cores/opt-30-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.008017797023058,
+      "icbm_ms": 19.71620731712861
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "4416cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/4416cores/llama2-13-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.682035296689719,
+      "icbm_ms": 11.273040167854495
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "4416cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/4416cores/llama2-70-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.6863097357563674,
+      "icbm_ms": 22.93595644246078
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "1288cores",
+    "model": "vit-huge",
+    "batch": "b32",
+    "gbps": 875,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/1288cores/vit-huge-b32-875GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.38089399598538876,
+      "icbm_ms": 90.5157320651992
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "552cores",
+    "model": "vit-huge",
+    "batch": "b32",
+    "gbps": 375,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/552cores/vit-huge-b32-375GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.39949458511546254,
+      "icbm_ms": 292.0065892905777
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "5152cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/5152cores/llama2-70-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 4.780463567003608,
+      "icbm_ms": 17.310073511842475
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "5152cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/5152cores/gemma2-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.5167356841266155,
+      "icbm_ms": 8.444405120964252
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "5152cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/5152cores/llama2-13-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.1842194320634007,
+      "icbm_ms": 8.563743696427567
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048",
+    "seq_len": 2048,
+    "suffix": "",
+    "core_count": "5152cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048/5152cores/opt-30-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.52878829697147,
+      "icbm_ms": 16.39137250460294
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_d",
+    "seq_len": 4096,
+    "suffix": "_d",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_d/5888cores/opt-30-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 10.505291326902807,
+      "icbm_schedule_time": 4.282682543154806,
+      "icbm_ms": 16.373484074789957
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_d",
+    "seq_len": 4096,
+    "suffix": "_d",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_d/5888cores/llama2-13-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 17.044700670987368,
+      "icbm_schedule_time": 4.40617725905031,
+      "icbm_ms": 17.476853458052947
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_d",
+    "seq_len": 4096,
+    "suffix": "_d",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_d/5888cores/llama2-70-b32-16000GBps.log",
+    "data": {
+      "prepare_time": 16.327642037998885,
+      "icbm_schedule_time": 8.545927532948554,
+      "icbm_ms": 18.40752982610738
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_d",
+    "seq_len": 4096,
+    "suffix": "_d",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_d/5888cores/llama2-70-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 13.282529005780816,
+      "icbm_schedule_time": 7.208275034092367,
+      "icbm_ms": 17.133357268186508
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_d",
+    "seq_len": 4096,
+    "suffix": "_d",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_d/5888cores/opt-30-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 16.69461386790499,
+      "icbm_schedule_time": 5.243717106059194,
+      "icbm_ms": 29.928982540885563
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_d",
+    "seq_len": 4096,
+    "suffix": "_d",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_d/5888cores/llama2-13-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 11.148377452045679,
+      "icbm_schedule_time": 2.874469397123903,
+      "icbm_ms": 8.578110036888734
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_d",
+    "seq_len": 4096,
+    "suffix": "_d",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_d/5888cores/gemma2-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 19.704521887935698,
+      "icbm_schedule_time": 4.641347598284483,
+      "icbm_ms": 12.250877021908128
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_d",
+    "seq_len": 4096,
+    "suffix": "_d",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_d/5888cores/gemma2-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 11.539148821961135,
+      "icbm_schedule_time": 3.3500961316749454,
+      "icbm_ms": 8.567118069167092
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_d",
+    "seq_len": 4096,
+    "suffix": "_d",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_d/5888cores/opt-30-b32-16000GBps.log",
+    "data": {
+      "prepare_time": 13.498900297097862,
+      "icbm_schedule_time": 5.17612457787618,
+      "icbm_ms": 18.48217101000059
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_d",
+    "seq_len": 4096,
+    "suffix": "_d",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_d/5888cores/llama2-70-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 20.824933426920325,
+      "icbm_schedule_time": 10.953156020957977,
+      "icbm_ms": 24.367418584104012
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_d",
+    "seq_len": 4096,
+    "suffix": "_d",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_d/5888cores/gemma2-b32-16000GBps.log",
+    "data": {
+      "prepare_time": 15.570631339680403,
+      "icbm_schedule_time": 3.787661042995751,
+      "icbm_ms": 9.588099707468848
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_d",
+    "seq_len": 4096,
+    "suffix": "_d",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_d/5888cores/llama2-13-b32-16000GBps.log",
+    "data": {
+      "prepare_time": 14.257011116016656,
+      "icbm_schedule_time": 5.113725244067609,
+      "icbm_ms": 9.93242453574128
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_a",
+    "seq_len": 4096,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_a/5888cores/opt-30-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 147.3458314461168,
+      "icbm_schedule_time": 3.63136201701127,
+      "icbm_ms": 16.168837930406085
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_a",
+    "seq_len": 4096,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_a/5888cores/llama2-13-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 411.2249577809125,
+      "icbm_schedule_time": 4.7563462948892266,
+      "icbm_ms": 17.55467915403932
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_a",
+    "seq_len": 4096,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_a/5888cores/llama2-70-b32-16000GBps.log",
+    "data": {
+      "prepare_time": 348.38821455207653,
+      "icbm_schedule_time": 11.064467342104763,
+      "icbm_ms": 18.60366384556022
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_a",
+    "seq_len": 4096,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_a/5888cores/llama2-70-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 244.4862103748601,
+      "icbm_schedule_time": 9.463488365057856,
+      "icbm_ms": 16.636495419482408
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_a",
+    "seq_len": 4096,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_a/5888cores/opt-30-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 398.1808255140204,
+      "icbm_schedule_time": 5.54057356598787,
+      "icbm_ms": 30.383987468615377
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_a",
+    "seq_len": 4096,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_a/5888cores/llama2-13-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 179.45451591000892,
+      "icbm_schedule_time": 2.887428108137101,
+      "icbm_ms": 8.404573019437565
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_a",
+    "seq_len": 4096,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_a/5888cores/gemma2-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 505.2529933718033,
+      "icbm_schedule_time": 6.735532141989097,
+      "icbm_ms": 12.624841145429503
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_a",
+    "seq_len": 4096,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_a/5888cores/gemma2-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 198.3289382669609,
+      "icbm_schedule_time": 4.294452999019995,
+      "icbm_ms": 8.235152456633674
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_a",
+    "seq_len": 4096,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_a/5888cores/opt-30-b32-16000GBps.log",
+    "data": {
+      "prepare_time": 246.02455242211,
+      "icbm_schedule_time": 5.939813293050975,
+      "icbm_ms": 18.568745394912842
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_a",
+    "seq_len": 4096,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_a/5888cores/llama2-70-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 558.0574511920568,
+      "icbm_schedule_time": 14.330367266898975,
+      "icbm_ms": 24.646609262478773
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_a",
+    "seq_len": 4096,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_a/5888cores/gemma2-b32-16000GBps.log",
+    "data": {
+      "prepare_time": 300.87184960604645,
+      "icbm_schedule_time": 4.810610597021878,
+      "icbm_ms": 9.608008323002668
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_a",
+    "seq_len": 4096,
+    "suffix": "_a",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_a/5888cores/llama2-13-b32-16000GBps.log",
+    "data": {
+      "prepare_time": 254.5284075839445,
+      "icbm_schedule_time": 5.7140897021163255,
+      "icbm_ms": 9.927221257443986
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096",
+    "seq_len": 4096,
+    "suffix": "",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096/5888cores/opt-30-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 4.781653873156756,
+      "icbm_schedule_time": 3.538143109995872,
+      "icbm_ms": 17.371318560638972
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096",
+    "seq_len": 4096,
+    "suffix": "",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096/5888cores/llama2-13-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 5.238120159134269,
+      "icbm_schedule_time": 4.881028805393726,
+      "icbm_ms": 17.66645419361489
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096",
+    "seq_len": 4096,
+    "suffix": "",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096/5888cores/llama2-70-b32-16000GBps.log",
+    "data": {
+      "prepare_time": 7.204298514872789,
+      "icbm_schedule_time": 8.105620021000504,
+      "icbm_ms": 18.84225095818285
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096",
+    "seq_len": 4096,
+    "suffix": "",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096/5888cores/llama2-70-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 6.385952854063362,
+      "icbm_schedule_time": 7.785794352181256,
+      "icbm_ms": 18.016903486847603
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096",
+    "seq_len": 4096,
+    "suffix": "",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096/5888cores/opt-30-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 6.249535036273301,
+      "icbm_schedule_time": 5.725514946971089,
+      "icbm_ms": 30.10387156862762
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096",
+    "seq_len": 4096,
+    "suffix": "",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096/5888cores/llama2-13-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 4.240898926742375,
+      "icbm_schedule_time": 3.143456551246345,
+      "icbm_ms": 9.019792773056832
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096",
+    "seq_len": 4096,
+    "suffix": "",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096/5888cores/gemma2-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 6.912451549433172,
+      "icbm_schedule_time": 6.154360921122134,
+      "icbm_ms": 12.474726757757226
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096",
+    "seq_len": 4096,
+    "suffix": "",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096/5888cores/gemma2-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 5.511307488195598,
+      "icbm_schedule_time": 2.9868884179741144,
+      "icbm_ms": 9.062523835631533
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096",
+    "seq_len": 4096,
+    "suffix": "",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096/5888cores/opt-30-b32-16000GBps.log",
+    "data": {
+      "prepare_time": 5.2537094173021615,
+      "icbm_schedule_time": 5.646669377107173,
+      "icbm_ms": 18.845745668892388
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096",
+    "seq_len": 4096,
+    "suffix": "",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096/5888cores/llama2-70-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 7.663437037728727,
+      "icbm_schedule_time": 9.747035653330386,
+      "icbm_ms": 24.813530244481488
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096",
+    "seq_len": 4096,
+    "suffix": "",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096/5888cores/gemma2-b32-16000GBps.log",
+    "data": {
+      "prepare_time": 5.985209770966321,
+      "icbm_schedule_time": 4.032214133068919,
+      "icbm_ms": 9.921887701973414
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096",
+    "seq_len": 4096,
+    "suffix": "",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096/5888cores/llama2-13-b32-16000GBps.log",
+    "data": {
+      "prepare_time": 4.737378959078342,
+      "icbm_schedule_time": 4.886762444395572,
+      "icbm_ms": 10.231427554609207
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_b",
+    "seq_len": 4096,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_b/5888cores/opt-30-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 26.037911007879302,
+      "icbm_schedule_time": 4.26392684597522,
+      "icbm_ms": 16.168837930406085
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_b",
+    "seq_len": 4096,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_b/5888cores/llama2-13-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 55.484587696846575,
+      "icbm_schedule_time": 4.735038266982883,
+      "icbm_ms": 17.55467915403932
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_b",
+    "seq_len": 4096,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_b/5888cores/llama2-70-b32-16000GBps.log",
+    "data": {
+      "prepare_time": 48.11067148507573,
+      "icbm_schedule_time": 12.979410683969036,
+      "icbm_ms": 18.60366384556022
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_b",
+    "seq_len": 4096,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_b/5888cores/llama2-70-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 30.174602420069277,
+      "icbm_schedule_time": 7.472509989980608,
+      "icbm_ms": 16.636495419482408
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_b",
+    "seq_len": 4096,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_b/5888cores/opt-30-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 54.17858537007123,
+      "icbm_schedule_time": 5.45271914312616,
+      "icbm_ms": 30.383987468615377
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_b",
+    "seq_len": 4096,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_b/5888cores/llama2-13-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 27.69532710709609,
+      "icbm_schedule_time": 2.878877258859575,
+      "icbm_ms": 8.404573019437565
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_b",
+    "seq_len": 4096,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_b/5888cores/gemma2-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 66.96445570793003,
+      "icbm_schedule_time": 6.550678824074566,
+      "icbm_ms": 12.947512310521
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_b",
+    "seq_len": 4096,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_b/5888cores/gemma2-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 25.384893085807562,
+      "icbm_schedule_time": 3.1231764589902014,
+      "icbm_ms": 8.235152456633674
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_b",
+    "seq_len": 4096,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_b/5888cores/opt-30-b32-16000GBps.log",
+    "data": {
+      "prepare_time": 37.00912552513182,
+      "icbm_schedule_time": 6.3886457360349596,
+      "icbm_ms": 18.568745394912842
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_b",
+    "seq_len": 4096,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_b/5888cores/llama2-70-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 72.57982491096482,
+      "icbm_schedule_time": 17.207543526077643,
+      "icbm_ms": 24.646609262478773
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_b",
+    "seq_len": 4096,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_b/5888cores/gemma2-b32-16000GBps.log",
+    "data": {
+      "prepare_time": 42.52302705007605,
+      "icbm_schedule_time": 3.9633904749061912,
+      "icbm_ms": 9.608008323002668
+    }
+  },
+  {
+    "folder": "outputs_icbm_4096_b",
+    "seq_len": 4096,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_4096_b/5888cores/llama2-13-b32-16000GBps.log",
+    "data": {
+      "prepare_time": 39.01546059199609,
+      "icbm_schedule_time": 5.632284559076652,
+      "icbm_ms": 9.927221257443986
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "3680cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/3680cores/gemma2-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.1727395898196846,
+      "icbm_ms": 10.681021611377608
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "3680cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/3680cores/llama2-13-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.9292010460048914,
+      "icbm_ms": 11.850490752960795
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "3680cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/3680cores/opt-30-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.054226494859904,
+      "icbm_ms": 20.633428454699253
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "3680cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/3680cores/llama2-70-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.0948397191241384,
+      "icbm_ms": 23.72541773662302
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "1472cores",
+    "model": "vit-huge",
+    "batch": "b32",
+    "gbps": 1000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/1472cores/vit-huge-b32-1000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.37092346395365894,
+      "icbm_ms": 77.92187280061538
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "2944cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/2944cores/llama2-70-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.301754908170551,
+      "icbm_ms": 24.070161991871498
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "2944cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/2944cores/opt-30-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.6792369990143925,
+      "icbm_ms": 20.47080657746511
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "2944cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/2944cores/gemma2-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.175048191100359,
+      "icbm_ms": 11.488329836965331
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "2944cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/2944cores/llama2-13-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.4062703519593924,
+      "icbm_ms": 11.7237249639473
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "2208cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/2208cores/llama2-70-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 4.431811910122633,
+      "icbm_ms": 26.52451783663404
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "2208cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/2208cores/llama2-13-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.8683271340560168,
+      "icbm_ms": 14.619183184905594
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "2208cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/2208cores/opt-30-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.4758790978230536,
+      "icbm_ms": 27.021178898696736
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "2208cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/2208cores/gemma2-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.5525357041042298,
+      "icbm_ms": 12.043725677402486
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "736cores",
+    "model": "vit-huge",
+    "batch": "b32",
+    "gbps": 500,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/736cores/vit-huge-b32-500GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.39556398894637823,
+      "icbm_ms": 179.79346018898283
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/gemma2-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.0780309620313346,
+      "icbm_ms": 9.138222725714877
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 4000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/gemma2-b32-4000GBps.log",
+    "data": {
+      "icbm_schedule_time": 5.91866619582288,
+      "icbm_ms": 15.299869948371168
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-70-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 12.156966246897355,
+      "icbm_ms": 16.742780539458654
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 17000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/gemma2-b32-17000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.4002975740004331,
+      "icbm_ms": 10.553033029453294
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/opt-30-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 25.6369707940612,
+      "icbm_schedule_time": 4.559685237007216,
+      "icbm_ms": 13.702252471827055
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/gemma2-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.3174691069871187,
+      "icbm_ms": 9.195478789762708
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-13-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 59.875801839865744,
+      "icbm_schedule_time": 7.611222365871072,
+      "icbm_ms": 11.033501931275671
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 7000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/gemma2-b32-7000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.5939840101636946,
+      "icbm_ms": 8.81436809987793
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 5000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-70-b32-5000GBps.log",
+    "data": {
+      "icbm_schedule_time": 12.098246776964515,
+      "icbm_ms": 26.75467241030366
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 11000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-70-b32-11000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.8911788139957935,
+      "icbm_ms": 19.607625102694747
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 17000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/opt-30-b32-17000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.4102893539238721,
+      "icbm_ms": 20.22406176569179
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-70-b32-16000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.5114665771834552,
+      "icbm_ms": 17.76256253488448
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 13000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/opt-30-b32-13000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.9258415799122304,
+      "icbm_ms": 17.458837450222276
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-13-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.461003272794187,
+      "icbm_ms": 9.159821561480452
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/opt-30-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.5306023678276688,
+      "icbm_ms": 17.477994031845768
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-13-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.3455579630099237,
+      "icbm_ms": 9.918107978662997
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 3000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-70-b32-3000GBps.log",
+    "data": {
+      "icbm_schedule_time": 13.258152665104717,
+      "icbm_ms": 44.5308408347828
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 17000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-70-b32-17000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.2166734950151294,
+      "icbm_ms": 21.849319402883832
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-70-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.7636550460010767,
+      "icbm_ms": 15.422935230711364
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 13000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/gemma2-b32-13000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.9391924610827118,
+      "icbm_ms": 9.522488318368065
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 9000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-13-b32-9000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.6847193979192525,
+      "icbm_ms": 8.758177322086464
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-70-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 13.944466481916606,
+      "icbm_ms": 22.310630304183853
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 18000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-13-b32-18000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.28264050208963454,
+      "icbm_ms": 10.9702158731656
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/opt-30-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.014819691888988,
+      "icbm_ms": 16.78912135024661
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 3000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/opt-30-b32-3000GBps.log",
+    "data": {
+      "icbm_schedule_time": 4.8141688709147274,
+      "icbm_ms": 47.96873698990301
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 5000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/gemma2-b32-5000GBps.log",
+    "data": {
+      "icbm_schedule_time": 4.507206419017166,
+      "icbm_ms": 12.273302419074293
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 15000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/gemma2-b32-15000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.7547239360865206,
+      "icbm_ms": 7.992952533588248
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 18000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/gemma2-b32-18000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.3605126820039004,
+      "icbm_ms": 10.414736361202737
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/gemma2-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.3102377308532596,
+      "icbm_ms": 8.194352552252212
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 2000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-13-b32-2000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.7152921378146857,
+      "icbm_ms": 38.29982933387382
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-70-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 29.361453451914713,
+      "icbm_schedule_time": 9.132814313052222,
+      "icbm_ms": 16.38121591043909
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 5000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/opt-30-b32-5000GBps.log",
+    "data": {
+      "icbm_schedule_time": 6.696351121878251,
+      "icbm_ms": 28.827269997715213
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-13-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.5391674970742315,
+      "icbm_ms": 8.471807043386859
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 15000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-70-b32-15000GBps.log",
+    "data": {
+      "icbm_schedule_time": 5.276286049047485,
+      "icbm_ms": 16.009391186342842
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/opt-30-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 55.9096382081043,
+      "icbm_schedule_time": 6.945415451889858,
+      "icbm_ms": 19.42631121955263
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-13-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 25.895118680084124,
+      "icbm_schedule_time": 2.6692367661744356,
+      "icbm_ms": 6.980571952165137
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-70-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 4.340731960954145,
+      "icbm_ms": 15.016324494121603
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/opt-30-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 5.313003994058818,
+      "icbm_ms": 18.099915241708434
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-13-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.589539204025641,
+      "icbm_ms": 12.824957529645804
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/gemma2-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 65.64387105917558,
+      "icbm_schedule_time": 6.71969355805777,
+      "icbm_ms": 11.668046540411122
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 13000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-13-b32-13000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.9437811148818582,
+      "icbm_ms": 9.968423048661888
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 13000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-70-b32-13000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.718954810174182,
+      "icbm_ms": 19.834619040463323
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 4000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-13-b32-4000GBps.log",
+    "data": {
+      "icbm_schedule_time": 4.207155721029267,
+      "icbm_ms": 19.181270251842573
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 4000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-70-b32-4000GBps.log",
+    "data": {
+      "icbm_schedule_time": 15.742126750061288,
+      "icbm_ms": 33.42073556948335
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 3000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-13-b32-3000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.394125381950289,
+      "icbm_ms": 25.55412327918646
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 2000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/gemma2-b32-2000GBps.log",
+    "data": {
+      "icbm_schedule_time": 6.023691795067862,
+      "icbm_ms": 30.43270759485554
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 18000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/opt-30-b32-18000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.4114271551370621,
+      "icbm_ms": 20.11413533180448
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 9000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/opt-30-b32-9000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.067969710100442,
+      "icbm_ms": 16.151248054478668
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 11000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/gemma2-b32-11000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.0365183148533106,
+      "icbm_ms": 9.072053731095163
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 15000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-13-b32-15000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.408266416983679,
+      "icbm_ms": 8.163933247062015
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 9000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/gemma2-b32-9000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.2598970821127295,
+      "icbm_ms": 9.360445550670653
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/opt-30-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.8477042859885842,
+      "icbm_ms": 16.02620365599397
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 11000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/opt-30-b32-11000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.3704090300016105,
+      "icbm_ms": 16.889825153520263
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 17000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-13-b32-17000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.2874354568775743,
+      "icbm_ms": 11.12843482741396
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 4000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/opt-30-b32-4000GBps.log",
+    "data": {
+      "icbm_schedule_time": 4.868465265026316,
+      "icbm_ms": 36.00532011978552
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/opt-30-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 4.797523372108117,
+      "icbm_ms": 24.04190324966849
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 2000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-70-b32-2000GBps.log",
+    "data": {
+      "icbm_schedule_time": 12.925277485046536,
+      "icbm_ms": 66.75105136538178
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/gemma2-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.6639478660654277,
+      "icbm_ms": 9.082835134212893
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b16",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/gemma2-b16-16000GBps.log",
+    "data": {
+      "prepare_time": 25.659486755961552,
+      "icbm_schedule_time": 2.504431269830093,
+      "icbm_ms": 7.802156015143738
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 8000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-13-b32-8000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.9457914899103343,
+      "icbm_ms": 9.664108381075877
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/opt-30-b32-16000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.8363110560458153,
+      "icbm_ms": 16.410191515046485
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 15000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/opt-30-b32-15000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.523354758042842,
+      "icbm_ms": 15.05561483294504
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b64",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-70-b64-16000GBps.log",
+    "data": {
+      "prepare_time": 67.98079716018401,
+      "icbm_schedule_time": 9.448067282093689,
+      "icbm_ms": 23.523072924951997
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 5000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-13-b32-5000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.4377118030097336,
+      "icbm_ms": 15.35755843543632
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 18000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-70-b32-18000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.5161208149511367,
+      "icbm_ms": 21.483048161053805
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 7000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-70-b32-7000GBps.log",
+    "data": {
+      "icbm_schedule_time": 12.891694010002539,
+      "icbm_ms": 19.13631451409827
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 3000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/gemma2-b32-3000GBps.log",
+    "data": {
+      "icbm_schedule_time": 4.537378364941105,
+      "icbm_ms": 20.344149163866
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 6000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/gemma2-b32-6000GBps.log",
+    "data": {
+      "icbm_schedule_time": 4.622565547004342,
+      "icbm_ms": 10.255590732876398
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 7000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/opt-30-b32-7000GBps.log",
+    "data": {
+      "icbm_schedule_time": 6.028947318904102,
+      "icbm_ms": 20.641840905396876
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 11000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-13-b32-11000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.0710702049545944,
+      "icbm_ms": 9.456438275519574
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 7000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-13-b32-7000GBps.log",
+    "data": {
+      "icbm_schedule_time": 3.1389656679239124,
+      "icbm_ms": 11.018313857665818
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 9000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-70-b32-9000GBps.log",
+    "data": {
+      "icbm_schedule_time": 4.708219914929941,
+      "icbm_ms": 18.437528662643395
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 2000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/opt-30-b32-2000GBps.log",
+    "data": {
+      "icbm_schedule_time": 7.259149130200967,
+      "icbm_ms": 71.89557073013708
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 10000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-70-b32-10000GBps.log",
+    "data": {
+      "icbm_schedule_time": 4.7532401939388365,
+      "icbm_ms": 14.50139238135482
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/gemma2-b32-16000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.5551887650508434,
+      "icbm_ms": 8.675524257049625
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 16000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5888cores/llama2-13-b32-16000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.9049959240946919,
+      "icbm_ms": 9.34050120212999
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "1104cores",
+    "model": "vit-huge",
+    "batch": "b32",
+    "gbps": 750,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/1104cores/vit-huge-b32-750GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.3647808628156781,
+      "icbm_ms": 106.1496037954852
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "920cores",
+    "model": "vit-huge",
+    "batch": "b32",
+    "gbps": 625,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/920cores/vit-huge-b32-625GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.47097190795466304,
+      "icbm_ms": 130.3434075745096
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "4416cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/4416cores/gemma2-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.9233772729057819,
+      "icbm_ms": 10.525395547828353
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "4416cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/4416cores/opt-30-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.9258643339853734,
+      "icbm_ms": 19.26545551860064
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "4416cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/4416cores/llama2-13-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.7934045288711786,
+      "icbm_ms": 11.040822317476758
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "4416cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 12000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/4416cores/llama2-70-b32-12000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.1452166859526187,
+      "icbm_ms": 22.413363114472137
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "1288cores",
+    "model": "vit-huge",
+    "batch": "b32",
+    "gbps": 875,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/1288cores/vit-huge-b32-875GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.4684296390041709,
+      "icbm_ms": 91.30178652070701
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "552cores",
+    "model": "vit-huge",
+    "batch": "b32",
+    "gbps": 375,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/552cores/vit-huge-b32-375GBps.log",
+    "data": {
+      "icbm_schedule_time": 0.4927424939814955,
+      "icbm_ms": 230.1974381287764
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5152cores",
+    "model": "llama2-70",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5152cores/llama2-70-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 5.835738300113007,
+      "icbm_ms": 16.801979971999774
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5152cores",
+    "model": "gemma2",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5152cores/gemma2-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 1.5056546698324382,
+      "icbm_ms": 8.170275272496571
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5152cores",
+    "model": "llama2-13",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5152cores/llama2-13-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.429026731988415,
+      "icbm_ms": 8.341393739337633
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_b",
+    "seq_len": 2048,
+    "suffix": "_b",
+    "core_count": "5152cores",
+    "model": "opt-30",
+    "batch": "b32",
+    "gbps": 14000,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_b/5152cores/opt-30-b32-14000GBps.log",
+    "data": {
+      "icbm_schedule_time": 2.3574578021652997,
+      "icbm_ms": 15.937721373453849
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_training_a",
+    "seq_len": 2048,
+    "suffix": "_training_a",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b2",
+    "gbps": 400,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_training_a/5888cores/llama2-13-b2-400GBps.log",
+    "data": {
+      "icbm_schedule_time": 25.53652120498009,
+      "icbm_ms": 187.25092293604905
+    }
+  },
+  {
+    "folder": "outputs_icbm_2048_training_a",
+    "seq_len": 2048,
+    "suffix": "_training_a",
+    "core_count": "5888cores",
+    "model": "llama2-13",
+    "batch": "b2",
+    "gbps": 300,
+    "log_file": "/home/yiqiliu2/elk/outputs_icbm_2048_training_a/5888cores/llama2-13-b2-300GBps.log",
+    "data": {
+      "icbm_schedule_time": 26.59206458297558,
+      "icbm_ms": 248.52307810883445
+    }
+  }
+]
